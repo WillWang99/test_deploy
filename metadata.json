@@ -1,0 +1,8 @@
+{
+  "name": "Heritage Guard designed by S-Robot",
+  "description": "A community-driven app for reporting archaeological findings and looting activities in Cambodia. Empowering villagers to protect heritage.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
